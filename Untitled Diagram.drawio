@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-10T22:12:00.131Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="tD1aKC04sXSRmacp6b1P" version="12.6.7" type="github">
+<mxfile host="www.draw.io" modified="2020-02-10T22:42:18.536Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="FZ96bMU6xv4WduTU-8Wm" version="12.6.7" type="github">
   <diagram id="jbEALhOgkWal1XQhPFOV" name="Page-1">
-    <mxGraphModel dx="868" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -34,7 +34,7 @@
         <mxCell id="PQB0gIy3SyEiNjIAX_FZ-5" value="weblate-redis" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="190" y="350" width="50" height="48" as="geometry"/>
         </mxCell>
-        <mxCell id="PQB0gIy3SyEiNjIAX_FZ-7" value="&lt;div&gt;azure ad (ldaps connector)&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_AD_Domain_Services.svg;" vertex="1" parent="1">
+        <mxCell id="PQB0gIy3SyEiNjIAX_FZ-7" value="&lt;div&gt;azure ad directory service&lt;br&gt;(ldaps connector)&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_AD_Domain_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="440" y="90" width="64" height="64" as="geometry"/>
         </mxCell>
         <mxCell id="PQB0gIy3SyEiNjIAX_FZ-13" value="App basic data" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pvc;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
